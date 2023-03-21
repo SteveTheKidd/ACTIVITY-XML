@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ILLEGAL_DRUGS>
+    <DRUGS>
+        <NAME>Methamphetamines</NAME>
+        <TYPE>Stimulant</TYPE>
+        <FORMULA>C₁₀H₁₅N</FORMULA>
+        <DURATION>8–12 Hours</DURATION>
+        <LEGAL-STATUS>
+        <CA>Schedule I (CA)</CA>
+        <AU>Schedule I (AU)</AU>
+        <DE>Schedule I (DE)</DE>
+        <US>Schedule I (US)</US>
+        <UK>Schedule I (UK)</UK>
+        </LEGAL-STATUS>
+    </DRUGS>
+    <DRUGS>
+        <NAME>LSD</NAME>
+        <TYPE>Hallucinogenic</TYPE>
+        <FORMULA>C₂₀H₂₅N₃₀</FORMULA>
+        <DURATION>8–20 Hours</DURATION>
+        <LEGAL-STATUS>
+        <CA>Schedule III (CA)</CA>
+        <AU>S9 (AU)</AU>
+        <DE>Anlage I (DE)</DE>
+        <US>Schedule I (US)</US>
+        <UK>Class A (UK)</UK>
+        </LEGAL-STATUS>
+    </DRUGS>
+    <DRUGS>
+        <NAME>Marijuana</NAME>
+        <TYPE>Stimulant</TYPE>
+        <FORMULA>C₂₁H₃₀O₂</FORMULA>
+        <DURATION>2-8 Hours</DURATION>
+        <LEGAL-STATUS>
+        <CA>Uscheduled (CA)</CA>
+        <AU>S9 (AU)</AU>
+        <DE>Anlage III (DE)</DE>
+        <US>Schedule I (US)</US>
+        <UK>Class B (UK)</UK>
+        </LEGAL-STATUS>
+    </DRUGS>
+    <DRUGS>
+        <NAME>Cocaine</NAME>
+        <TYPE>Stimulant</TYPE>
+        <FORMULA>C₁₇H₂₁N₀₄</FORMULA>
+        <DURATION>20-90 Minutes</DURATION>
+        <LEGAL-STATUS>
+        <CA>Schedule I (CA)</CA>
+        <AU>S8 (AU)</AU>
+        <DE>Anlage III (DE)</DE>
+        <US>Schedule III (US)</US>
+        <UK>Class A (UK)</UK>
+        </LEGAL-STATUS>
+    </DRUGS>
+    <DRUGS>
+        <NAME>Ecstasy</NAME>
+        <TYPE>Empathogen-Stimulant</TYPE>
+        <FORMULA>C₁₁H₁₅N₂</FORMULA>
+        <DURATION>4-6 Hours</DURATION>
+        <LEGAL-STATUS>
+        <CA>S9 (CA)</CA>
+        <AU>Schedule I (AU)</AU>
+        <DE>Anlage I (DE)</DE>
+        <US>Schedule I (US)</US>
+        <UK>Class A (UK)</UK>
+        </LEGAL-STATUS>
+    </DRUGS>
+</ILLEGAL_DRUGS>
